@@ -1,2 +1,2 @@
 # snake-game
- A simple pygame
+ A simple pygame of snakes
